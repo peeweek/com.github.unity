@@ -1,0 +1,8 @@
+{
+  "name": "com.github.unity",
+  "displayName": "GitHub for Unity",
+  "version": "1.4.0",
+  "unity": "2018.3",
+  "description": "Github for Unity plugin",
+  "dependencies" : {}
+}
